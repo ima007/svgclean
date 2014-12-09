@@ -6,5 +6,5 @@ Usage:
  
  2. In terminal, run 
     
-     ruby clean.rb
+        ruby clean.rb
  3. Done.
